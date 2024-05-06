@@ -1,0 +1,4 @@
+﻿  Sieve(6k).cpp
+E:\Work\Visual Studio\Sieve(6k)\Sieve(6k).cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+E:\Work\Visual Studio\Sieve(6k)\Sieve(6k).cpp(132,23): warning C4018: '<': signed/unsigned mismatch
+  Sieve(6k).vcxproj -> E:\Work\Visual Studio\Sieve(6k)\x64\Debug\Sieve(6k).exe

@@ -1,0 +1,7 @@
+﻿  Bits.cpp
+E:\Work\Visual Studio\Bits\Bits.cpp(14,20): warning C4244: 'return': conversion from '__int64' to 'char', possible loss of data
+E:\Work\Visual Studio\Bits\Bits.cpp(25,20): warning C4244: 'return': conversion from '__int64' to 'char', possible loss of data
+E:\Work\Visual Studio\Bits\Bits.cpp(36,12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+E:\Work\Visual Studio\Bits\Bits.cpp(27): warning C4715: 'find_up': not all control paths return a value
+E:\Work\Visual Studio\Bits\Bits.cpp(16): warning C4715: 'find_low': not all control paths return a value
+  Bits.vcxproj -> E:\Work\Visual Studio\Bits\x64\Debug\Bits.exe

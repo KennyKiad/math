@@ -1,0 +1,3 @@
+﻿  FibonacciSeq.c
+E:\Work\Visual Studio\FibonacciSeq\FibonacciSeq.c(243,9): warning C4101: 'res': unreferenced local variable
+  FibonacciSeq.vcxproj -> E:\Work\Visual Studio\FibonacciSeq\x64\Debug\FibonacciSeq.exe

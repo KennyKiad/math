@@ -1,0 +1,4 @@
+﻿  FermatTest.cpp
+E:\Work\Visual Studio\FermatTest\FermatTest.cpp(43,21): warning C4101: 'tmp': unreferenced local variable
+E:\Work\Visual Studio\FermatTest\FermatTest.cpp(44,6): warning C4101: 'res': unreferenced local variable
+  FermatTest.vcxproj -> E:\Work\Visual Studio\FermatTest\x64\Debug\FermatTest.exe

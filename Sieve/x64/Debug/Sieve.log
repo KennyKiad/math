@@ -1,0 +1,6 @@
+﻿  Sieve.cpp
+E:\Work\Visual Studio\Sieve\Sieve.cpp(79,29): warning C4018: '<': signed/unsigned mismatch
+E:\Work\Visual Studio\Sieve\Sieve.cpp(83,35): warning C4018: '<': signed/unsigned mismatch
+E:\Work\Visual Studio\Sieve\Sieve.cpp(78,15): warning C4101: 'offset': unreferenced local variable
+E:\Work\Visual Studio\Sieve\Sieve.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+  Sieve.vcxproj -> E:\Work\Visual Studio\Sieve\x64\Debug\Sieve.exe
